@@ -1,4 +1,14 @@
+// util
+@import "util/variables";
+
+// pages
 @import "pages/home";
 @import "pages/about";
 @import "pages/services";
 @import "pages/contact";
+
+// layout
+@import "layout/container";
+@import "layout/header";
+
+// components
